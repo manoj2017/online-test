@@ -1,0 +1,25 @@
+<html>
+<body>
+<table style="width=100%">
+  <tr>
+	  <th>Firstname</th>
+      <th>Lastname</th>
+      <th>Age</th>
+  </tr>    
+  <tr>
+	  <td>Akshita</td>
+	 <td>Agrawal</td>
+	  <td>21</td>
+  <tr>
+      <td>Dona</td>
+      <td>Agrawal</td>
+      <td>16</td>
+  </tr>
+  <tr>
+      <td>Abhishek</td>
+      <td>Garg</td>
+      <td>20</td>
+  </tr>        	
+</table>
+</body>
+</html>
